@@ -1,4 +1,6 @@
-site_name: My Docs
+site_name: Junak
 
 theme:
   name: material
+  features:
+    - navigation.indexes
