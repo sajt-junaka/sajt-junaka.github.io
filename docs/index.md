@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+<h2 style="text-align: center;">Институт математики НАН Беларуси<br>
+<b>«ШКОЛА ЮНЫХ МАТЕМАТИКОВ»</b></h2>
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<p>Начиная с 02.10.2023 продолжит работу Школа юных математиков при Институте математики Национальной академии наук Беларуси.</p>
+<p>Занятия проводят сотрудники Института математики. Темы занятий расширяют и углубляют курс школьной математики, носят олимпиадный и исследовательский характер. <b>Занятия бесплатные.</b></p>
+<p>Занятия будут проводиться с 17:00 по 18:30 в четырёх группах в лекционном зале Института математики НАН Беларуси, по адресу: ул. Сурганова, 11 (ком. 80). Расписание занятий:</p>
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* <u>Понедельник</u>: **Младшая группа** (первый год обучения, 8-9 классы)
+* <u>Вторник</u>: **Средняя группа** (второй год обучения, 9-10 классы)
+* <u>Среда</u>: **Старшая группа** (третий год обучения, 10-11 классы)
+* <u>Четверг</u>: **Введение в высшую математику** (для посещающих среднюю и старшую группы)

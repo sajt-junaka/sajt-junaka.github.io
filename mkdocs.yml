@@ -1,6 +1,21 @@
-site_name: Junak
+site_name: Юнак
 
 theme:
   name: material
+  custom_dir: overrides
+  palette:
+    primary: white
+    accent: red
   features:
     - navigation.indexes
+
+nav:
+  - Навіны: 'index.md'
+  - Школа юных матэматыкаў:
+    - 'Школа юных матэматыкаў/index.md'
+    - Расклад: 'Школа юных матэматыкаў/example.md'
+
+extra_css:
+  - css/extra.css
+
+
