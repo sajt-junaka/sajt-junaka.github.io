@@ -2,18 +2,26 @@ site_name: Юнак
 
 theme:
   name: material
+  favicon: assets/images/logo.svg
+  logo: assets/images/logo.svg
   custom_dir: overrides
   palette:
     primary: white
-    accent: red
   features:
     - navigation.indexes
 
+plugins:
+  - blog:
+      blog_dir: .
+      archive: false
+  - search
+
 nav:
-  - Навіны: 'index.md'
+  - Нататкі: 
+    - 'index.md'
   - Школа юных матэматыкаў:
-    - 'Школа юных матэматыкаў/index.md'
-    - Расклад: 'Школа юных матэматыкаў/example.md'
+    - 'school/index.md'
+    - 'school/fall_2023.md'
 
 extra_css:
   - css/extra.css
