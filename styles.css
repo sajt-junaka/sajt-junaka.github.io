@@ -86,3 +86,9 @@ h1{
 }
 ol.listki li a{color:red;}
 ol.listki li a:visited{color: black;}
+P{
+    text-indent: 3rem;
+}
+.underline {
+    text-decoration: underline;
+  }
