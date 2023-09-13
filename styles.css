@@ -6,7 +6,7 @@ html,body,header,nav {
 }
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif; /*Ставім стандартныя шрыфты*/
-    margin:0 auto;
+    margin:1rem auto;
     background-color: white;
     padding-left: 0.8%;
     padding-right: 0.8%;
@@ -87,8 +87,8 @@ h1{
 ol.listki li a{color:red;}
 ol.listki li a:visited{color: black;}
 P{
-    text-indent: 3rem;
+    text-indent: 2rem;
 }
-.underline {
+.underline{
     text-decoration: underline;
-  }
+}
