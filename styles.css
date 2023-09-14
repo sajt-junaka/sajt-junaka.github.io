@@ -35,7 +35,7 @@ nav.topmenu a.active{
     color:red;
 }
 
-h2{
+h2, h3{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: normal;
 }
