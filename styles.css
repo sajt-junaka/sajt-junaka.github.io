@@ -15,16 +15,7 @@ body{
     font-size: 1rem;
 /*    border-block: unset;*/
 }
-div.head{
-    font-size: 1.5em;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: bold;
-    color:red;
-    text-align: left;
-    padding-top: 1%;
-    padding-bottom: 1%;
-}
-div.topmenu{
+nav.topmenu{
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 0;
     padding-bottom: 0.2rem;
@@ -32,7 +23,7 @@ div.topmenu{
     margin-bottom: 0;
     border-bottom: solid;
 }
-div.topmenu a{
+nav.topmenu a{
     display: inline box;
     font-weight: bold;
     font-size: 1.25rem;
@@ -40,40 +31,9 @@ div.topmenu a{
     color: black;
     text-decoration: none;
 }
-div.topmenu a.active{
+nav.topmenu a.active{
     color:red;
 }
-div.menu{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: bold;
-/*    display:flex;/*Сумяшчае з папярэднім блокам*/
-    height: max-content;
-    font-size: 1.25rem;
-    padding: 0;
-    margin:0;
-    margin-bottom: 0;
-    border-bottom: solid;
-}
-div.menu ul{
-    display: flex;
-    height: max-content;
-    margin:0;
-    padding:0;
-    list-style-type:none;
-    border-bottom: solid;
-}
-div.menu ul li{float:left}
-
-div.menu ul li a{
-    display:inline-block;
-    color:black;
-    text-align: center;
-    padding: 0.3rem;
-    width: 7rem;
-    font-size: 1.25rem;
-}
-div.menu ul li a.active{color:red;}
-
 
 h2{
     font-family: Georgia, 'Times New Roman', Times, serif;
