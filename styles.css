@@ -1,5 +1,5 @@
 html,body,header,nav {
-    -webkit-text-size-adjust: 220%;
+    text-size-adjust: auto;
     -moz-text-size-adjust: 100%;
     -ms-text-size-adjust: auto;
 }
