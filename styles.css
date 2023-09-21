@@ -1,9 +1,9 @@
-html,body,header,nav {
-/*    text-size-adjust: none;*/
+/*html,body,header,nav {
+    text-size-adjust: none;
     -webkit-text-size-adjust: 220%;
     -moz-text-size-adjust: 100%;
     -ms-text-size-adjust: 125%;
-}
+}*/
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif; /*Ставім стандартныя шрыфты*/
     margin:2em auto auto;
