@@ -39,8 +39,9 @@ nav.topmenu a.active {
 
 h2,
 h3 {
+    font-size: 1.25rem;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: normal;
+    font-weight: bold;
 }
 
 h1 {
